@@ -9,7 +9,7 @@
 30 dias de CSS3 é um desafio que estou realizando a partir de Dezembro de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos.
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://i.imgur.com/WV6pUv4.jpg)
+![Dia 01](https://i.imgur.com/Es5tOLy.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2001)
 
