@@ -16,7 +16,7 @@
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6743721301434757120/) 
 
 ##  Desafio dia 02 - Using Particles Animated <a name="id02"></a>
-![Dia 02](https://i.imgur.com/hxRmPeI.gif)
+![Dia 02](https://i.imgur.com/95TN2e6.jpg)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2002)
 
