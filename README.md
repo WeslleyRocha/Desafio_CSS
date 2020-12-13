@@ -14,3 +14,6 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2001)
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6743721301434757120/) 
+
+
+![Dia 02](https://i.imgur.com/kb8zFeg.gif)
