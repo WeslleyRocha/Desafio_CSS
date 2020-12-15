@@ -22,3 +22,11 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2002)
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6744013632016793600/) 
+
+
+##  Desafio dia 03 - Mudança de cor ao entra em outra DIV. <a name="id03"></a>
+![Dia 03](https://i.imgur.com/257apT7.jpg)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2003)
+
+[Post LinkedIn](https://www.linkedin.com/in/weslleyrocha/detail/recent-activity/) 
