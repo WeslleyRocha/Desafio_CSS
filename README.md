@@ -25,7 +25,7 @@
 
 
 ##  Desafio dia 03 - Mudança de cor ao entra em outra DIV. <a name="id03"></a>
-![Dia 03](https://i.imgur.com/257apT7.jpg)
+![Dia 03](https://i.imgur.com/3FIDUG0.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2003)
 
