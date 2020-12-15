@@ -17,7 +17,7 @@
 
 
 ##  Desafio dia 02 - Particulas Animadas <a name="id02"></a>
-![Dia 02](https://i.imgur.com/257apT7.jpg)
+![Dia 02](https://i.imgur.com/hxRmPeI.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2002)
 
