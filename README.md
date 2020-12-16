@@ -30,3 +30,11 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2003)
 
 [Post LinkedIn](https://www.linkedin.com/in/weslleyrocha/detail/recent-activity/) 
+
+
+##  Desafio dia 04 - Menu - Efeito Houver. <a name="id03"></a>
+![Dia 04](https://i.imgur.com/DuEuaik.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2004)
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6744785691982491648/) 
