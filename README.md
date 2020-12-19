@@ -47,8 +47,7 @@
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6745501901468536832/) 
 
 ##  Desafio dia 06  - Botão Animado Efeito On Hover <a name="id03"></a>
-![Dia 06](https://i.imgur.com/KJxlyqy.gif)
-
+![Dia 06](https://i.imgur.com/mzSQZk8.gif)
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2006)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia06-devs-css-activity-6745894117911355392-X1ct) 
