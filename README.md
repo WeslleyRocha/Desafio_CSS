@@ -59,3 +59,5 @@
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2007)
 
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6747189656284106752/) 
+
