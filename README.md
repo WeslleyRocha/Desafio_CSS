@@ -67,5 +67,5 @@
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2008)
 
-[Post LinkedIn]() 
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia08-devs-css-activity-6747349097377734656--E-A) 
 
