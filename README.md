@@ -61,3 +61,11 @@
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6747189656284106752/) 
 
+
+##  Desafio dia 08 - Pendulo de Newton <a name="id03"></a>
+![Dia 08](https://i.imgur.com/LlPD6u1.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2008)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia08-devs-css-activity-6747349097377734656--E-A) 
+
