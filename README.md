@@ -77,3 +77,11 @@
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia09-devs-css-activity-6757757495156076544-BuQ6) 
 
 
+##  Desafio dia 10 - Social Media, Buttons Animation <a name="id03"></a>
+![Dia 08](https://i.imgur.com/DrnL59b.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2010)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia10-devs-css-activity-6758224364908367872-iCOt) 
+
+
