@@ -69,3 +69,11 @@
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia08-devs-css-activity-6747349097377734656--E-A) 
 
+##  Desafio dia 09 - Eu Amo <a name="id03"></a>
+![Dia 08](https://i.imgur.com/UIY164S.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2009)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia09-devs-css-activity-6757757495156076544-BuQ6) 
+
+
