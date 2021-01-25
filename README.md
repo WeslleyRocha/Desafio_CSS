@@ -70,7 +70,7 @@
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia08-devs-css-activity-6747349097377734656--E-A) 
 
 ##  Desafio dia 09 - Eu Amo <a name="id03"></a>
-![Dia 08](https://i.imgur.com/UIY164S.gif)
+![Dia 09](https://i.imgur.com/UIY164S.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2009)
 
@@ -78,10 +78,18 @@
 
 
 ##  Desafio dia 10 - Social Media, Buttons Animation <a name="id03"></a>
-![Dia 08](https://i.imgur.com/DrnL59b.gif)
+![Dia 10](https://i.imgur.com/DrnL59b.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2010)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia10-devs-css-activity-6758224364908367872-iCOt) 
+
+
+##  Desafio dia 11 - Efeito Preenchimento <a name="id03"></a>
+![Dia 11](https://i.imgur.com/gZQqE3w.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2011)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia11-devs-css-activity-6758893029072871424-f9ak) 
 
 
