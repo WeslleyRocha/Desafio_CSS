@@ -93,3 +93,11 @@
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia11-devs-css-activity-6758893029072871424-f9ak) 
 
 
+##  Desafio dia 12 - Desafio 12ª dia <a name="id03"></a>
+![Dia 12](https://i.imgur.com/VbxXucY.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2012)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia12-devs-css-activity-6759559190085152768-SGMP) 
+
+
