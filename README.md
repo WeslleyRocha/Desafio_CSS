@@ -107,3 +107,14 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2013)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia13-devs-css-activity-6760004097891418112-8-m6)
+
+
+
+##  Desafio dia 14 - Elastic Line Animation <a name="id03"></a>
+![Dia 14](https://i.imgur.com/q4VddzH.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2014)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia13-devs-css-activity-6760004097891418112-8-m6)
+
+
