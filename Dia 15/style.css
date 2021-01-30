@@ -1,0 +1,45 @@
+body
+{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #7bed9f;
+}
+
+a
+{
+	text-decoration: none;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 40px;
+	border: 3px solid #000000;
+	padding: 30px 70px;
+	transition: all 0.1s;
+	position: relative;
+	overflow: hidden;	
+}
+
+a:hover
+{
+	background-color: #00b894;
+
+}
+
+a:before
+{
+	content: '';
+	background-color: #ffffff;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	transform: translate(-100%) rotate(45deg);
+	transition: all 0.7s; 
+}
+
+a:hover:before
+{
+	transform: translateX(100%) rotate(45deg);
+}
