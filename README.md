@@ -110,11 +110,19 @@
 
 
 
-##  Desafio dia 14 - Elastic Line Animation <a name="id03"></a>
+##  Desafio dia 14 - TextoEsfumaçado <a name="id03"></a>
 ![Dia 14](https://i.imgur.com/q4VddzH.gif)
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2014)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia13-devs-css-activity-6760004097891418112-8-m6)
+
+
+##  Desafio dia 15 - Transição <a name="id03"></a>
+![Dia 15](https://i.imgur.com/ZSqCbqp.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2015)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia15-devs-css-activity-6761090031537930240-gmej)
 
 
