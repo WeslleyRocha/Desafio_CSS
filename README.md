@@ -126,3 +126,9 @@
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia15-devs-css-activity-6761090031537930240-gmej)
 
 
+##  Desafio dia 16 - Incone com efeito <a name="id03"></a>
+![Dia 16](https://i.imgur.com/UBKXdGW.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2016)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia16-devs-css-activity-6762890931319525376-wfBB)
