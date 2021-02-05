@@ -132,3 +132,11 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2016)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia16-devs-css-activity-6762890931319525376-wfBB)
+
+
+##  Desafio dia 17 - Loanding <a name="id03"></a>
+![Dia 17](https://i.imgur.com/dndgJiJ.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2017)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia16-devs-css-activity-6762890931319525376-wfBB)
