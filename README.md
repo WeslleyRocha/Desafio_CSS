@@ -139,4 +139,4 @@
 
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2017)
 
-[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia16-devs-css-activity-6762890931319525376-wfBB)
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia17-devs-css-activity-6763243827886088192-6Qe6)
