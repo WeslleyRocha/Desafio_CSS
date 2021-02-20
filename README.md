@@ -140,3 +140,20 @@
 [Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2017)
 
 [Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia17-devs-css-activity-6763243827886088192-6Qe6)
+
+
+##  Desafio dia 18 - Loanding <a name="id03"></a>
+![Dia 18](https://i.imgur.com/gAvgvqu.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2018)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia18-devs-css-activity-6765828361857048576-pxDo)
+
+
+##  Desafio dia 19 - Loanding <a name="id03"></a>
+![Dia 19](https://i.imgur.com/RNn4OHr.gif)
+
+[Meu codigo](https://github.com/WeslleyRocha/Desafio_CSS/tree/main/Dia%2019)
+
+[Post LinkedIn](https://www.linkedin.com/posts/weslleyrocha_dia19-devs-css-activity-6768363730427232256-z2fm)
+
